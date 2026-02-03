@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_text": "#3a3a3a",
@@ -51,7 +60,6 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "",
           "logo_max_width": 100,
           "main_linklist": "main-menu",
           "message": false,
@@ -68,28 +76,24 @@
           "jumbo-0": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
               "bottom_img_destination": ""
             }
           },
           "jumbo-1": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
               "bottom_img_destination": ""
             }
           },
           "jumbo-2": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
               "bottom_img_destination": ""
             }
           },
           "jumbo-3": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
               "bottom_img_destination": ""
             }
           }
@@ -101,7 +105,7 @@
           "jumbo-3"
         ],
         "settings": {
-          "bg_image": "",
+          "bg_image": "shopify://shop_images/californiastreet.jpg",
           "jumbo_title": "StreetWear",
           "jumbo_subtitle": "New Collection"
         }
@@ -109,11 +113,11 @@
       "two-collections": {
         "type": "two-collections",
         "settings": {
-          "collection1": "summer-sale",
-          "left_title_color": "#3a3a3a",
-          "left_c_color": "rgba(255, 255, 000, 0.5)",
-          "collection2": "trending",
-          "right_title_color": "#ffffff",
+          "collection1": "products",
+          "left_title_color": "#ccced3",
+          "left_c_color": "#ffff0080",
+          "collection2": "products-3",
+          "right_title_color": "#ffff00",
           "right_c_color": "#ccced3"
         }
       },
@@ -134,21 +138,21 @@
           "quotes-0": {
             "type": "quote",
             "settings": {
-              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
               "author": "Author's name"
             }
           },
           "quotes-1": {
             "type": "quote",
             "settings": {
-              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
               "author": "Author's name"
             }
           },
           "quotes-2": {
             "type": "quote",
             "settings": {
-              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
               "author": "Author's name"
             }
           }
@@ -259,7 +263,7 @@
           "percent_number": "#ffffff",
           "subtitle_color": "#ffffff",
           "collection_bg_color": "#000000",
-          "collection": "50-off-sale"
+          "collection": "on-sale"
         }
       },
       "1595012619404": {
@@ -268,7 +272,7 @@
           "collection": "featured",
           "max_products": "8",
           "product_info_color": "#000000",
-          "product_hover_color": "rgba(100, 100, 100, 0.7)"
+          "product_hover_color": "#646464b3"
         }
       }
     },
@@ -381,21 +385,21 @@
             "quotes-0": {
               "type": "quote",
               "settings": {
-                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
                 "author": "Author's name"
               }
             },
             "quotes-1": {
               "type": "quote",
               "settings": {
-                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
                 "author": "Author's name"
               }
             },
             "quotes-2": {
               "type": "quote",
               "settings": {
-                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
                 "author": "Author's name"
               }
             }
@@ -656,21 +660,21 @@
             "quotes-0": {
               "type": "quote",
               "settings": {
-                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
                 "author": "Author's name"
               }
             },
             "quotes-1": {
               "type": "quote",
               "settings": {
-                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
                 "author": "Author's name"
               }
             },
             "quotes-2": {
               "type": "quote",
               "settings": {
-                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+                "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
                 "author": "Author's name"
               }
             }
